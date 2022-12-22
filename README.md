@@ -1,4 +1,4 @@
---ink is https://www.roblox.com/games/8491627378/1-20-Monkey-Sans-an-the-Door
+--link is https://www.roblox.com/games/8491627378/1-20-Monkey-Sans-an-the-Door
 
 
 -- ENJOY The Auto Farm
