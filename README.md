@@ -1,5 +1,10 @@
 --ink is https://www.roblox.com/games/8491627378/1-20-Monkey-Sans-an-the-Door
+
+
 -- ENJOY The Auto Farm
+
+
+
 queue_on_teleport([[if game.PlaceId == 9611586905 then loadstring(game:HttpGet("https://raw.githubusercontent.com/LDUCKXD/quacks/main/monkee"))() end]])
 
 if quacky  then
